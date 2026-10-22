@@ -9,8 +9,6 @@ I'm Alexandra — a final-year Software Engineering student at Petrozavodsk Stat
 - Graphic designer with 2+ years of experience (Figma, Photoshop, Canva)
 - Open to work - office, hybrid or remote
 
----
-
 ## Languages and Tools:
 
 <h3 align="left"/h3>
@@ -43,17 +41,16 @@ I'm Alexandra — a final-year Software Engineering student at Petrozavodsk Stat
     <img src="https://img.shields.io/badge/Android Studio-090909?style=for-the-badge&logo=androidstudio&logoColor=3DDC84">
 </div>
 
----
-
+<!-- 
 ## GitHub Stats:
 
 <img src="https://github-readme-stats.vercel.app/api?username=Flatwhite21&show_icons=true&theme=bear&hide_border=true">
+-->
 
 ## Most Used Languages:
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Flatwhite21&layout=compact&theme=bear&hide_border=true">
 
----
 
 ## Connect with me:
 
